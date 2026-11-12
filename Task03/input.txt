@@ -1,0 +1,3 @@
+Search text: Java
+Category: All
+Resize checks: 760 x 470, 900 x 600, 560 x 360

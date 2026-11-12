@@ -1,0 +1,4 @@
+1000 INR -> USD: 12.00 USD
+1000 INR -> EUR: 11.00 EUR
+abc -> Invalid amount
+The button and Enter key call the same lambda listener.

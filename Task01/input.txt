@@ -1,0 +1,4 @@
+Register number: 192511053
+Amount: 1500
+Invalid test: amount = abc
+Empty test: register number = blank

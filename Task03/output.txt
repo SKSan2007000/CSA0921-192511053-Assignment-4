@@ -1,0 +1,3 @@
+Initial table rows: 3
+Search Java -> matching title/author rows shown.
+Resize design: centre JScrollPane receives remaining BorderLayout space; top and bottom rows keep preferred sizes.

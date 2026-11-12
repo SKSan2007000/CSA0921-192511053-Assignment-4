@@ -1,0 +1,4 @@
+Patient ID: P1008
+Department: Cardiology
+Doctors: Dr. Kumar, Dr. Meena
+Time slot: 10:30 AM

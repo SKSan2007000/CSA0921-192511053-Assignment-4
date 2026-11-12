@@ -1,0 +1,8 @@
+GUI launch: successful.
+Database connection: NOT AVAILABLE in this build environment (MySQL Connector/J and server are not configured).
+Expected after configuration:
+Valid registration -> Registration saved.
+Same student + same event -> unique constraint rejects duplicate; UI shows duplicate message.
+Invalid fields -> validation message; no INSERT query is executed.
+Filter -> selected event registrations loaded in pages of 20.
+Export -> registrations_page.csv contains the current page.

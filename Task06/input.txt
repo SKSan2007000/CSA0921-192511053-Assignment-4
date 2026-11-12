@@ -1,0 +1,6 @@
+Student ID: 192511053
+Student name: Santhosh Kumar
+Event: Cultural Fest
+Email: student@example.com
+Duplicate test: submit same student ID and event again.
+Invalid test: invalid email or missing student ID.

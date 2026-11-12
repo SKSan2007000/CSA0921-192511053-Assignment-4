@@ -1,0 +1,3 @@
+Department changed -> doctor list refreshed for Cardiology.
+Booking validation -> patient ID, doctor and time slot present.
+Result -> Appointment request is ready to submit.

@@ -1,0 +1,3 @@
+The GUI was launched successfully. The current environment has no MySQL Connector/J driver or configured MySQL server.
+The screen therefore reports: No suitable driver found for jdbc:mysql://localhost:3306/campus_events
+This is an environment setup limitation, not a successful live database test. Configure MySQL and Connector/J before submission.

@@ -1,0 +1,3 @@
+Click points: (100, 100), (150, 120), (220, 180)
+Expected label: Clicks: 3
+Restore test: minimise and restore the window; all three dots should remain.

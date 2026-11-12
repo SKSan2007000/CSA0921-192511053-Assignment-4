@@ -1,0 +1,4 @@
+Frame constructor -> register listeners -> setVisible(true)
+Department selection -> ItemEvent -> department listener -> refresh doctor list
+Book click -> ActionEvent -> validate -> book -> show result
+Close -> WINDOW_CLOSING -> windowClosing confirmation -> dispose -> windowClosed

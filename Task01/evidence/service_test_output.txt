@@ -1,0 +1,5 @@
+$ javac FeeService.java FeeServiceTest.java && java FeeServiceTest
+Payment checked for 192511053. Connect a fee database to save the payment.
+Empty ID: Enter the register number.
+Invalid amount: Enter a valid amount.
+Negative amount: Amount must be greater than zero.

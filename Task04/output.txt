@@ -1,0 +1,4 @@
+Click 1 -> point stored; label Clicks: 1
+Click 2 -> point stored; label Clicks: 2
+Click 3 -> point stored; label Clicks: 3
+After repaint -> all 3 points are drawn again.

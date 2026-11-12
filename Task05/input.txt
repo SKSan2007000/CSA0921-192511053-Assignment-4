@@ -1,0 +1,4 @@
+Input amount (INR): 1000
+Target: USD
+Expected: 12.00 USD
+Invalid input: abc -> Invalid amount
